@@ -1,8 +1,8 @@
 ## Bienvenido / Welcome
 
-Ver [documentación en español](https://github.com/nicocedron/whatsapp-save-numbers/edit/master/index.md)
+Ver [documentación en español](https://nicocedron.github.io/whatsapp-save-numbers#español)
 
-See [english docs](https://github.com/nicocedron/whatsapp-save-numbers/edit/master/index.md)
+See [english docs](https://nicocedron.github.io/whatsapp-save-numbers#english)
 
 
 ### Español
